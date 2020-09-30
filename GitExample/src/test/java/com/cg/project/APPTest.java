@@ -1,4 +1,4 @@
-package App;
+package com.cg.project;
 
 import org.junit.Test;
 
